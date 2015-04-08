@@ -5,6 +5,9 @@
     .masthead-heading {
         font-size: 3em;
     }
+    .content-footer {
+      padding: 3em 0;
+    }
 }
 
 body {
