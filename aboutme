@@ -1,0 +1,34 @@
+<header class="masthead">  
+    <p class="masthead-intro">Hi, I'm</p>
+    <h1 class="masthead-heading">Courtney!</h1>   
+  </header>
+<section class="introduction-section">
+    <h1>| Introduction</h1>
+    <p>I'm a coffee-a-holic, wine enthusiast and lover of puppies. I am obsessed with traveling and am already planning my next trip before my current trip has even started. My life functions in thanks to my Google calendar and I love movie/TV and pop culture trivia.</p>
+  
+    <p>After working for the past 8 years, I've come to realize that being happy in a job is important to me. It constantly amazes me how much time we actually spend at our place of employment versus at home, with friends, etc. That being said, I'm pursuing front-end web development in the hopes that choosing a different career path will make me happier in my job. My company is great and I like my job, but I need a challenge and I think something web related could be the answer.</p>
+</section>
+<section class="location-section">
+    <h1>| Where I'm From</h1>
+    <p>I was born and raised in the Pacific Northwest and while I suffer from a serious case of Wanderlust from time-to-time, I truly cannot imagine living somewhere else. I love to be outdoors as much as possible hiking, camping and soaking up the sunshine (which isn't nearly as rare as some like to believe!)</p>
+</section>
+<section class="questions-section">
+    <h1>| More About Me</h1>
+    <h2>What are your favorite hobbies?</h2>
+    <p>While I love to be outdoors, I also am a big fan of staying in as well! I am a movie and TV junkie and can most Friday nights be found enjoying a bottle of red and binge watching whatever show or movie is new to Netflix. I also very much enjoy spending time with my friends and family. From wine/beer tasting, water or snow skiing or simply grabbing dinner at my favorite Taco truck, I truly believe that time with loved ones is time well spent.</p>
+    <h2>What's your dream job?</h2>
+    <p>My dream job would actually be the Brand Manager/Creative Director of a winery. I have always found wine fascinating (and delicious) and I think that my  marketing and design background would make me highly successful (and fulfilled) in this career. </p>
+    <h2>What's your background?</h2>
+    <p>I started my career as a tour director in Alaska for a cruise company. After two summer seasons (while finishing my Undergrad) I took on a full time job recruiting, hiring and managing the tour directors for the same company. After many years I transitioned to the cruise line's marketing department where I still am today. I decided to go back to school to pursue web design and development in 2013 after growing more interested in the internet marketing side of our business.</p>
+    <h2>Why do you want to learn web development?</h2>
+    <p>I've always been the "techier" one of my girlfriends and find the internet fascinating yet daunting in it's ever-changing ways. I grew up with a passion for learning languages and web languages are no exception. I'm nervous about not "getting it" but I'm more excited about the challenges and possibilities and education in web development will give me.</p>
+</section>
+<footer class="content-footer">
+    <p>Say hi to me on these social networks:</p>
+    <ul class="social">
+        <li><a href="https://github.com/courtneymassey">GitHub</a></li>
+        <li><a href="www.linkedin.com/pub/courtney-massey/17/981/724/">LinkedIn</a></li>
+        <li><a href="https://www.facebook.com/court.a.massey">Facebook</a></li>
+    </ul>
+  <p>Cover Image via <a href="http://unsplash.com">Unsplash</a></p>
+</footer>

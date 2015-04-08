@@ -1,0 +1,114 @@
+@media only screen and (max-width: 500px) {
+    .masthead {
+        padding: 3em 0;
+    }
+    .masthead-heading {
+        font-size: 3em;
+    }
+}
+
+body {
+    /* Typography Declarations */
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color:#F2DEC2;
+}
+
+.content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+    padding: 6em 0;
+    background-image: url('https://unsplash.imgix.net/12/sun-trees.jpg?q=75&fm=jpg&s=b06693f0dea63e1634aed2ad6228bf71');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid 1em #414323;
+}
+
+.masthead-intro {
+    /* Layout Declarations */
+    margin-bottom: 0.1em;
+    /* Typography Declarations */
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+   color:#21160D;
+}
+
+.masthead-heading {
+    /* Layout Declarations */
+    margin-top: -0.2em;
+    /* Typography Declarations */
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+  color:21160D;
+  text-shadow:.05em .05em #F2DEC2;
+}
+
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.social > li {
+    display: inline-block;
+}
+
+.introduction-section h1,
+.location-section h1,
+.questions-section h1{
+    /* Typography Declarations */
+    font-size:2em;
+    letter-spacing: 0.05em;
+    color: #414323;
+    font-weight: 900;  
+}
+.introduction-section p,
+.location-section p,
+.questions-section p{
+    /* Typography Declarations */
+    font-size:1.2em;
+    letter-spacing: 0.05em; 
+}
+.introduction-section > p,
+.location-section > p,{
+    /* Typography Declarations */
+    font-weight: 300;
+    letter-spacing: 0.05em;  
+}
+
+.questions-section > h2 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.5em;
+    font-weight: 100;
+    /* Layout */
+    margin: 1em 0 1em 0;
+  color:#916C37;
+}
+
+section > h1 {
+    margin-top: 2em;
+}
+.content-footer{
+  margin-top: 2em;
+  padding: 2em 0;
+  background-color: #414323;
+  font-size: 1.5em; 
+  font-weight: 200;
+  letter-spacing: 0.05em;  
+}
+a {
+  text-decoration:none;
+  color: #F2DEC2;
+  padding:.5em;
+}
